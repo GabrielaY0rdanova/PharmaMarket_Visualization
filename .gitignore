@@ -1,0 +1,7 @@
+# Tableau temporary files
+~*.twbr
+*.twbr
+
+# Tableau extract files
+*.hyper
+*.tde
