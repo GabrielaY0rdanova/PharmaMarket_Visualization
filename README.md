@@ -187,9 +187,11 @@ This dataset is used for educational purposes and to demonstrate data visualisat
 
 ## 👩‍💻 About Me
 
-Hi! I'm [Gabriela Yordanova](https://www.linkedin.com/in/gabriela-yordanova-837ba2124/).  
-Having spent years working in pharmacy, I find this dataset genuinely interesting —  
-the patterns here reflect a real market I understand well. This project is the visual  
+Hi! I'm [Gabriela Yordanova](https://www.linkedin.com/in/gabriela-yordanova-837ba2124/).
+Check out my full portfolio 🗂️ [here](https://gabrielay0rdanova.github.io/).
+
+Having spent years working in pharmacy, I find this dataset genuinely interesting —
+the patterns here reflect a real market I understand well. This project is the visual
 payoff of the pipeline: clean data, meaningful analysis, and a dashboard that tells the story.
 
 *This project is part of my portfolio showcasing data analytics and visualisation skills.*
